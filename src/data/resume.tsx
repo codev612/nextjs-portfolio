@@ -5,10 +5,10 @@ export const DATA = {
   name: "Amady Ba",
   initials: "Amady Ba",
   url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  location: "Sugar Land, TX",
+  locationLink: "https://www.google.com/maps/place/sugarland",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Linkedin.",
+    "Senior Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Linkedin.",
   summary:
     "Innovatie Senior Software Engineer with 10 years of experience in designing cloud-native applications, streamlining data engineering workflows, and optimizing large-scale data pipelines. Proven ability to architect modern, scalable, and robust solutins using cutting-edge technologies like .NET, Azure, and big data platforms. Strong focus on building microservicesbased architectures, real-time data processing, and delivering high-performance applications across industries.",
   avatarUrl: "/me.png",
