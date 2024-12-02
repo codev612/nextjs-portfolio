@@ -94,7 +94,7 @@ export const DATA = {
       href: "https://emazinggroup.com/",
       location: "Remote",
       title: "Software Engineer",
-      logoUrl: "/shopify.svg",
+      logoUrl: "/emazinggroup.png",
       start: "Aug 2015",
       end: "July 2020",
       description:
@@ -106,7 +106,7 @@ export const DATA = {
       badges: [],
       location: "Santa Clara, CA",
       title: "Full Stack Web Developer",
-      logoUrl: "/nvidia.png",
+      logoUrl: "/upwork.png",
       start: "May 2017",
       end: "May 2013",
       description:
