@@ -34,7 +34,9 @@ export const DATA = {
     "Agile Srum",
     "Redis",
     "Git",
-    "Crystal Reports"
+    "Crystal Reports",
+    "Problem solving",
+    "Time management"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
